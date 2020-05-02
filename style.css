@@ -1,0 +1,310 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+p{
+    display: flex ;
+    justify-content:center ;
+    display: inline-block;
+    padding: 10px 10px 10px 30px;
+
+}
+
+.flot{
+    background-color: royalblue;
+}
+.logo{
+    width: 170px;
+    height: 90px;
+    
+}
+ 
+ul{
+    display: inline-block;
+    
+    
+     
+
+    
+}
+li{
+    
+    display: inline-block;
+    margin-left: 15px;
+    
+    
+    
+    
+    
+    
+
+}
+.home,.about,.service,.future,.news,.media,.dona{
+    color:black;
+}
+.about:hover{
+    
+    padding: 10px 10px 10px 20px;
+    background-color: royalblue;
+    padding: 10px;
+    border-radius: 1em;
+    
+
+}
+.service:hover{
+    padding: 10px 10px 10px 20px;
+    background-color: royalblue;
+    padding: 10px;
+    border-radius: 1em;
+}
+.future:hover{
+    padding: 10px 10px 10px 20px;
+    background-color: royalblue;
+    padding: 10px;
+    border-radius: 1em;
+}
+.news:hover{
+    
+    padding: 10px 10px 10px 20px;
+    background-color: royalblue;
+    padding: 10px;
+    border-radius: 1em;
+}
+.media:hover{
+    
+    padding: 10px 10px 10px 20px;
+    background-color: royalblue;
+    border-radius: 1em;
+    padding:10px ;
+    
+}
+.dona:hover{
+    
+    padding: 10px 10px 10px 20px;
+    background-color: royalblue;
+    padding: 10px;
+    border-radius: 1em;
+}
+.home:hover{
+    padding: 10px 10px 10px 20px;
+    background-color: royalblue;
+    padding: 10px;
+    border-radius: 1em;
+}
+.sylani{
+    overflow: hidden;
+    position:  fixed;
+    background-color:whitesmoke ;
+    display:inline;
+    width:100%;
+    z-index: 9999;
+  top: 0;
+  left: 0;
+  margin-top: 60px;;
+    
+    
+    
+    
+}
+.me{
+    margin-top: 10px 
+}
+/* h1{
+color:lightgreen;
+font-weight: bolder;
+text-align: center;
+text-shadow:2px 3px 4px blueviolet;
+} */
+.intro{
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.hand{
+    width: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sanc{
+    font-style: oblique;
+    padding: 10px 10px 10px 40px;
+    justify-content: center;
+    background-color: whitesmoke;
+} 
+
+
+.bara{
+    height: 400px;
+    width: 100%;
+    background-color:lawngreen;
+}
+.one
+{
+   height: 400px;
+   width: 25%; 
+   background-color:royalblue;
+}
+.two
+{
+   height: 400px;
+   width: 25%; 
+   background-color:royalblue;
+   
+   margin-top: -400px;
+   margin-left: 25%;
+}
+.three
+{
+   height: 400px;
+   width: 25%; 
+   background-color:royalblue;
+   
+   margin-top: -400px;
+   margin-left: 50%;
+}
+.four
+{
+   height: 400px;
+   width: 25%; 
+   background-color:royalblue;
+   
+   margin-top: -400px;
+   margin-left: 75%;
+}
+.ima{
+    text-align: center;
+}
+.ina{
+    text-align: center;
+}
+.tum{
+    color:rgb(13, 32, 134) ;
+    text-align: center;
+}
+.ino{
+    color:rgb(13, 32, 134) ;
+    text-align: center;
+}
+.al{
+    width: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.blue{
+    color: royalblue;
+}
+.green{
+    color:green ;
+}
+.blue,.green{
+    text-align:center ;
+}
+.nela{
+    
+    color: royalblue;
+}
+.hara{
+    color: green;
+}
+.nela,.hara{
+    text-align: center;
+}
+marquee{
+    background-color: royalblue;
+    height: 47px;
+}
+.A{
+    float: center;
+    border: wheat;
+    color: royalblue;
+    width: 100%;
+    height: 50%;
+}
+.miss{
+    color: royalblue;
+}
+.tab{
+    border-spacing: 10px 10px;
+    
+    
+}
+.bm,.cm,.jn,.hk,.lk,.op{
+    border: 1px solid whitesmoke ;
+    border-width: 6px;
+    box-shadow: 10px 10px 5px lightgrey;
+}
+.ty,.fy{
+    display: inline-flex
+}
+.ky,.sy{
+    display:inline-flex;
+}
+.ky,.sy,.ty,.fy{
+    border: 1em solid whitesmoke;
+    border-width:8px;
+    padding: 10px 10px 5px;
+    box-shadow: 10px 10px 5px lightgrey;
+}
+.tob{
+    border-spacing:5px 10px;
+}
+.b4{
+    color: royalblue;
+}
+.mis{
+    color: royalblue;
+    text-align: right;
+}
+.fiz{
+    background-color: whitesmoke;
+    height: 200px;
+    width: 230px;
+    float: right;
+
+}
+.mat{
+    color: darkgray;
+    
+}
+.mhroon{
+    color: royalblue;
+}
+
+
+.tomato{
+    color: green;
+}
+.mhroon,.tomato{
+    text-align: center;
+}
+.jo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mota{
+    background-color:rgb(38, 37, 44);
+    width: 100%;
+    height: 400px;
+}
+.happy{
+    color: white;
+}
+.pur{
+    color: greenyellow;
+}
+.bad{
+    float: right;
+}
+.hu{
+    color: lightgreen;
+}
+.see{
+    background-color: royalblue;
+    width: 100%;
+    height: 50px;
+}
